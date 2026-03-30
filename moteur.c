@@ -3,6 +3,6 @@ int main(){
 float vitesse=0;
 int i;
 for(i=0;i<5;i++){
-vitesse=vitesse+5;}
+vitesse=vitesse-2;}
 printf("vitesse=%.2f\n",vitesse);
 return 0;}
